@@ -5,7 +5,7 @@ February 12, 2021
 Bikeshare Project on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Prompts user to input city and navigates through data from bikeshare company.
 
 ### Files used
 Include the files used
