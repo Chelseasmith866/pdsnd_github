@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+February 12, 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project on GitHub
 
 ### Description
-Describe what your project is about and what it does
+Prompts user to input city and navigates through data from bikeshare company.
 
 ### Files used
-Include the files used
+washington.csv, new_york_city.csv, chicago.csv, bikeshare1.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity.com
